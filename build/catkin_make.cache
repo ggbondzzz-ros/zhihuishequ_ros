@@ -1,0 +1,2 @@
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:image_demo:nav_demo:urdf01_rviz:urdf02_gazebo:waterplus_map_tools:wpr_simulation
+-DCATKIN_DEVEL_PREFIX=/home/ubuuntu2004/planzzz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuuntu2004/planzzz_ws/install -G Unix Makefiles
